@@ -1,17 +1,7 @@
-# Calculator# (A Calculator made with C#)#
+# A Calculator made with C#
 
-This is a program I wrote during one of my internships while I was learning C# and Visual Studio. It's essentially the basic-mode Windows calculator re-coded from scratch, with a few scientific functions. There are also unit testing available for NUnit, which is great if you want to try manipulating the code and seeing if you break anything ;) (NUnit is downloaded separately of course, find it on Google)
+This is a basic-mode Windows calculator with some added scientific functionalities. I have developed it using C# and Visual Studio. In this the Calculator the core of the functionality code is sepereated from GUI. Please visit the folders in the project to get more clarity.
 
-This Calculator program should hopefully be a good reference to use if you want to see how "engine" code is separated from the GUI in a program.
+## Run ##
 
-
-## Terms of Use ##
-
-Free to use in any projects without notifying me, nor is credit needed (though it'd be much appreciated!). Just do not re-distribute it under anyone else's name and be sure to retain the copyright notice in the source!
-
- 
-----------
-
-Copyrighted © 2013 by Greg McLeod
-
-GitHub: [https://github.com/cleod9](https://github.com/cleod9)
+To run the program, download or clone the project into a directory and _Doubleclick_ the Calculator.sln solution. This will open up the Visual Studio and you should be able to use the app by just building the project. 
